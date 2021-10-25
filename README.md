@@ -44,7 +44,7 @@ Splash | Note List | Add Note | Edit Note | Delete Note
 ## Package Structure 📦
  ```
  com.mdzihad.noteapp
-   ├───di
+|───├───di
 ├───feature_note
 │   ├───data
 │   │   ├───data_source
