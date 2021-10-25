@@ -44,7 +44,25 @@ Splash | Note List | Add Note | Edit Note | Delete Note
 ## Package Structure 📦
 
  com.mdzihad.noteapp # Root Package
-
+├───di
+├───feature_note
+│   ├───data
+│   │   ├───data_source
+│   │   └───repository
+│   ├───domain
+│   │   ├───model
+│   │   ├───repository
+│   │   ├───use_case
+│   │   └───util
+│   └───presentation
+│       ├───add_edit_note
+│       │   └───components
+│       ├───notes
+│       │   └───components
+│       ├───splash
+│       └───util
+└───ui
+    └───theme
 
 
 
