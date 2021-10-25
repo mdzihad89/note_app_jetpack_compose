@@ -7,7 +7,7 @@ A Simple Note App 📱 built to demonstrate use of Jetpack Compose with  Clean A
 
 ***Try latest Note app apk from below 👇***
 
-[![Note App](https://img.shields.io/badge/NoteApp-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/mdzihad89/note_app_jetpack_compose/releases/download/v1.0.0/app-debug.apk)
+[![Note App](https://img.shields.io/badge/NoteApp-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/mdzihad89/note_app_jetpack_compose/releases/download/v1.0.0/Note.APP.apk)
 
 
 <br />
