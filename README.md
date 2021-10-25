@@ -22,7 +22,7 @@ A Simple Note App 📱 built to demonstrate use of Jetpack Compose with  Clean A
 
 Splash | Note List | Add Note | Edit Note | Delete Note
 --- | --- | --- |--- |--- 
-![](https://user-images.githubusercontent.com/83513508/138772381-9da62fc0-f74a-46eb-8013-1cd49b0ba84e.png) | ![](https://user-images.githubusercontent.com/83513508/138772380-00ae2c83-b870-40f5-b1a3-44f8099c6d88.png) | ![](https://user-images.githubusercontent.com/83513508/138772378-77e280a0-e7b5-410a-b737-afc630a25685.png) | ![]((https://user-images.githubusercontent.com/83513508/138772374-2b01072b-b456-483e-a770-6b4c872ef5e9.png) | ![](https://user-images.githubusercontent.com/83513508/138772371-cb3af432-bb4d-4ff0-ab9b-1f04578270b5.png)
+![](https://user-images.githubusercontent.com/83513508/138772381-9da62fc0-f74a-46eb-8013-1cd49b0ba84e.png) | ![](https://user-images.githubusercontent.com/83513508/138772380-00ae2c83-b870-40f5-b1a3-44f8099c6d88.png) | ![](https://user-images.githubusercontent.com/83513508/138772378-77e280a0-e7b5-410a-b737-afc630a25685.png) | ![](https://user-images.githubusercontent.com/83513508/138772374-2b01072b-b456-483e-a770-6b4c872ef5e9.png) | ![](https://user-images.githubusercontent.com/83513508/138772371-cb3af432-bb4d-4ff0-ab9b-1f04578270b5.png)
 
 <br />
 
