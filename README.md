@@ -78,7 +78,7 @@ This app uses MVVM with Clean Architecture.
 
 
 ## Contact 📩
-Have an project? DM us at 👇
+Have an project? DM me at 👇
 
 Drop a mail to:- mdzihad321@gmail.com
 
