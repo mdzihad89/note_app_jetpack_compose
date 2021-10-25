@@ -42,9 +42,9 @@ Splash | Note List | Add Note | Edit Note | Delete Note
 <br />
 
 ## Package Structure 📦
-
- com.mdzihad.noteapp # Root Package
-├───di
+ ```
+ com.mdzihad.noteapp
+   ├───di
 ├───feature_note
 │   ├───data
 │   │   ├───data_source
@@ -63,6 +63,8 @@ Splash | Note List | Add Note | Edit Note | Delete Note
 │       └───util
 └───ui
     └───theme
+   ```
+ 
 
 
 
