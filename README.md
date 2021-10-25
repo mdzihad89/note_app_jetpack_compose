@@ -75,7 +75,7 @@ This app uses MVVM with Clean Architecture.
 ## Build-tool 🧰
 [Android Studio Arctic Fox](https://android-developers.googleblog.com/2021/07/android-studio-arctic-fox-202031-stable.html)
 <br>
-<img src="./beta_android.png" height="200" alt="Beta-studio"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xda-developers.com%2Fandroid-studio-arctic-fox-jetpack-compose-1-0%2F&psig=AOvVaw0xRVwnp5kvAFIyclAeXWR3&ust=1635286794967000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjv17_O5vMCFQAAAAAdAAAAABAD" height="200" alt="Beta-studio"/>
 
 <br>
 
