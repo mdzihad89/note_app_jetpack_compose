@@ -35,7 +35,7 @@ Splash | Note List | Add Note | Edit Note | Delete Note
   - [Flow](https://kotlinlang.org/docs/reference/coroutines/flow.html) - A flow is an asynchronous version of a Sequence, a type of collection whose values are lazily produced.
   - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Stores UI-related data that isn't destroyed on UI changes. 
   - [Room](https://developer.android.com/topic/libraries/architecture/room) - SQLite object mapping library.
-  - [Dagger Hilt dependency injection](https://developer.android.com/training/dependency-injection/hilt-android) -Reduce boilerplate and make your code easier to maintain.
+  - [Dagger Hilt dependency injection](https://developer.android.com/training/dependency-injection/hilt-android) -Reduce boilerplate and make code easier to maintain.
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 - [Figma](https://figma.com/) - Figma is a vector graphics editor and prototyping tool which is primarily web-based.
 
@@ -81,6 +81,30 @@ This app uses MVVM with Clean Architecture.
 Have an project? DM me at 👇
 
 Drop a mail to:- mdzihad321@gmail.com
+
+<br />
+
+## License 🔖
+```
+    Apache 2.0 License
+
+
+    Copyright 2021 Md Zihad
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+```
+
 
 
 
