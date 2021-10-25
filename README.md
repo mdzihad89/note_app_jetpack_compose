@@ -76,7 +76,11 @@ This app uses MVVM with Clean Architecture.
 [Android Studio Arctic Fox](https://android-developers.googleblog.com/2021/07/android-studio-arctic-fox-202031-stable.html)
 <br>
 
-<br>
+
+## Contact 📩
+Have an project? DM us at 👇
+
+Drop a mail to:- mdzihad321@gmail.com
 
 
 
