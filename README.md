@@ -29,7 +29,7 @@ Splash | Note List | Add Note | Edit Note | Delete Note
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
-- [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAjwq9mLBhB2EiwAuYdMtSKZVh5cmsYUiVg9ptxj16SFBeeBZXNyNITYguZmuiKOEuaGnZc8vBoCFw4QAvD_BwE&gclsrc=aw.ds) - Modern ui toolkit  for Android development.
+- [Jetpack Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAjwq9mLBhB2EiwAuYdMtSKZVh5cmsYUiVg9ptxj16SFBeeBZXNyNITYguZmuiKOEuaGnZc8vBoCFw4QAvD_BwE&gclsrc=aw.ds) - Modern UI toolkit  for Android development.
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture) - Collection of libraries that help you design robust, testable, and maintainable apps.
   - [Flow](https://kotlinlang.org/docs/reference/coroutines/flow.html) - A flow is an asynchronous version of a Sequence, a type of collection whose values are lazily produced.
