@@ -43,6 +43,8 @@ Splash | Note List | Add Note | Edit Note | Delete Note
 
 ## Package Structure 📦
 
+ com.mdzihad.noteapp # Root Package
+
 
 
 
