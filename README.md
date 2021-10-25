@@ -1,7 +1,7 @@
 ![cover](https://user-images.githubusercontent.com/83513508/138772386-b3489037-097c-4c74-b9a8-50d8b11dd30c.png)
 
 # Note App
-A Simple Note App 📱 built to demonstrate use of Jetpack Compose with  Clean Architecture.
+A Simple Note App 📱 built to demonstrate use of Jetpack Compose and MVVM with Clean Architecture.
 
 <br />
 
@@ -64,7 +64,13 @@ Splash | Note List | Add Note | Edit Note | Delete Note
 └───ui
     └───theme
    ```
- 
+ <br />
+
+
+## Architecture 🗼
+This app uses MVVM with Clean Architecture.
+
+![](https://user-images.githubusercontent.com/83513508/138778269-a83b4574-a4f9-400d-a46c-465ecf403b6e.jpg)
 
 
 
