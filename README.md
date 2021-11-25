@@ -14,7 +14,7 @@ A Simple Note App 📱 built to demonstrate use of Jetpack Compose and MVVM with
 
 ## UI Design 🎨
 
-***Click to View Expenso app Design from below 👇***
+***Click to View Note app Design from below 👇***
 
 [![Note App](https://img.shields.io/badge/NoteApp-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/zqTjc9PMDp7IU21WsjXTNz/Note-App?node-id=0%3A1)
 
